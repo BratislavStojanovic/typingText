@@ -1,0 +1,9 @@
+.card-body {
+  padding: 7px;
+}
+.thumb {
+  height: 200px;
+}
+#infoDiv {
+  display: none;
+}
